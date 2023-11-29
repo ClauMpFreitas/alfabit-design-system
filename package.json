@@ -1,0 +1,69 @@
+{
+  "name": "ds-alfabit-v1",
+  "version": "0.1.13",
+  "private": false,
+  "main": "./components/index.ts",
+  "files": [
+    "styles/globals.css",
+    "tailwind.config.js",
+    "components/*",
+    "fonts/*"
+  ],
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@headlessui/react": "^1.7.14",
+    "@heroicons/react": "^2.0.18",
+    "@types/node": "20.2.1",
+    "@types/react": "18.2.6",
+    "@types/react-dom": "18.2.4",
+    "alfabit-ds": "^1.1.0",
+    "autoprefixer": "10.4.14",
+    "class-variance-authority": "^0.6.0",
+    "classnames": "^2.3.2",
+    "eslint": "8.40.0",
+    "eslint-config-next": "13.4.3",
+    "next": "13.4.2",
+    "postcss": "8.4.23",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "3.3.2",
+    "typescript": "5.0.4"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^25.0.2",
+    "@rollup/plugin-node-resolve": "^15.1.0",
+    "@rollup/plugin-typescript": "^11.1.2",
+    "@storybook/addon-essentials": "^7.3.1",
+    "@storybook/addon-interactions": "^7.3.1",
+    "@storybook/addon-links": "^7.3.1",
+    "@storybook/blocks": "^7.3.1",
+    "@storybook/manager-api": "^7.3.1",
+    "@storybook/nextjs": "^7.3.1",
+    "@storybook/react": "^7.3.1",
+    "@storybook/testing-library": "^0.2.0",
+    "@storybook/theming": "^7.3.1",
+    "eslint-plugin-storybook": "^0.6.13",
+    "rollup": "^3.26.2",
+    "rollup-plugin-dts": "^5.3.0",
+    "storybook": "^7.3.1",
+    "tslib": "^2.6.0"
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeiltonSeguins/alfabit-design-system-project.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/NeiltonSeguins/alfabit-design-system-project/issues"
+  },
+  "homepage": "https://github.com/NeiltonSeguins/alfabit-design-system-project#readme"
+}

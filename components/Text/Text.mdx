@@ -1,0 +1,30 @@
+import { Meta, Primary, Canvas, Controls } from "@storybook/blocks";
+
+import * as Story from "./Text.stories.ts";
+
+<Meta of={Story} />
+
+# Texto
+
+Este é um componente de texto.
+
+### Título H1
+
+<Canvas of={Story.TextHeadingH1} layout="centered" />
+
+### Título H2
+
+<Canvas of={Story.TextHeadingH2} layout="centered" />
+
+### Título H3
+
+<Canvas of={Story.TextHeadingH3} layout="centered" />
+
+### Parágrafo
+
+<Canvas of={Story.TextParagraph} layout="centered" />
+
+## Documentação Interativa
+
+<Primary />
+<Controls />
