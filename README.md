@@ -166,5 +166,5 @@ The [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) (GPL
 Copyright :copyright: 2023 - Alfabit Design System
 =======
 # alfabit-design-system
-Projeto realizado pelo curso da Alura. É um site criado com storybook e styled-components
+Esse projeto, desenvolvido através do curso da Alura, é um site construído com Storybook e Styled-Components. Destaca-se pela implementação de diversos componentes, como Links e botões, oferecendo variações de estilos para uma experiência visualmente rica e versátil.
 >>>>>>> 56151ae8e7dd7dfd56707b343ff146b56b942f1f
