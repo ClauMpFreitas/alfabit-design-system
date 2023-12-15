@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1 align="center">
   <img alt="Alfabit Design System" title="#alfabit-ds" src="public/logo-alfabit-branco.png" height="150" />
 </h1>
@@ -164,7 +163,3 @@ Esta é a equipe responsável pela criação desta biblioteca de componentes
 The [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.html) (GPL)
 
 Copyright :copyright: 2023 - Alfabit Design System
-=======
-# alfabit-design-system
-Esse projeto, desenvolvido através do curso da Alura, é um site construído com Storybook e Styled-Components. Destaca-se pela implementação de diversos componentes, como Links e botões, oferecendo variações de estilos para uma experiência visualmente rica e versátil.
->>>>>>> 56151ae8e7dd7dfd56707b343ff146b56b942f1f
