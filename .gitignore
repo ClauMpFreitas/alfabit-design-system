@@ -36,5 +36,5 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Pastas geradas automaticamente
+# Build do Storybook
 storybook-static
